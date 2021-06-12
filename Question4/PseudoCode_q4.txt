@@ -1,0 +1,17 @@
+
+1. Taking the input as number of test cases(T)
+
+2. Taking the number (n)
+
+3. taking array elements as string in vector 
+	
+4. checking the condtion if 1st string is "cookie" and another is also "Cookie" 
+	if both are equal then return No
+	a) it should not reach the end of loop so check i==n-1
+	here n is the size 
+		if its reach then return fasle 
+
+5. if its not then return Yes
+
+8. end   
+	 

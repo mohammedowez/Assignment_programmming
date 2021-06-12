@@ -7,7 +7,7 @@ int solve()
 	cin>>C>>D>>L;
 	
 	
-        int  tmp = 0;
+        long long   tmp = 0;
        
 	    //checking the mainimum cats and dogs 
         long long  mi = 4*(D + max(tmp, C-(2*D)));
@@ -28,7 +28,7 @@ int solve()
 int main()
 {
 	 // input the test case
-    long long int T;
+    long long  T;
     cin>>T;
     
     while(T--)

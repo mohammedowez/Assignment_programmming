@@ -1,0 +1,25 @@
+
+1. Taking the input as number of test cases(T)
+
+2. Taking the string as input (s)
+
+3. checking the length of the string 
+
+	a) if the size of string is greater than 2 then it will go inside the Loop
+	
+	1. using hashmap to count the frequency of the elements
+	
+	2. create a vector to store the frequency of the elements 
+
+	3. sort the vector in assending order to find the fibonnaic series
+		f[i]= f[i-1] + f[i-2]
+	
+	4. if all the frequency of the elements in the string follow the fibonnaic series order 
+		then print Dynamic 
+	
+	5 print Not
+
+   b) if the size of the string is less the or equal to 2 it will print not
+
+4. end   
+	 

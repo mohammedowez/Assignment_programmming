@@ -1,0 +1,15 @@
+
+1. Taking the input as number of test cases(T)
+
+2. Taking the input as c, d, l 
+
+3. checking the minimum and maximum condition and comparing it with the legs
+
+4. if the legs are divisble by 4 completely and legs >=maxmimumlegs and legs <=minimumlegs
+
+5. print yes 
+
+6. if any one of the above conditions are fail return fasle(No)
+
+7. end   
+	 

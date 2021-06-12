@@ -1,0 +1,15 @@
+
+1. Taking the input as number of test cases(T)
+
+2. Taking the string as input a,b,c
+
+3. checking for the both (a and b) ,(b and c) , (c and a) 
+	
+	a) checking the condtion that any 2 (a and b) ,(b and c) , (c and a) should not be equal 
+		if they are not equal in all the 3 elements then it will written true
+	
+	b) like wise it will check for all the 3  arrays and if all the three arrays satisify the condition it will return yes
+		otherwise it will written fasle
+
+4. end   
+	 

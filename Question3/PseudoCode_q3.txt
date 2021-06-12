@@ -1,0 +1,19 @@
+
+1. Taking the input as number of test cases(T)
+
+2. Taking the number (n)
+
+3. taking array elements as input 
+	
+4. checking the condtion if n even 2,4,6 return no;
+
+5. check the base case if 1st element of array is 1 or not if not then return no
+
+6 then go take a varible j and assign the n value to it and check if (a[i]==i+1) array of 1st element is equal to 1 
+	and so on and array of last element is equal to 1,2..
+
+7 if all conditions satisfy retunn yes 
+
+
+8. end   
+	 

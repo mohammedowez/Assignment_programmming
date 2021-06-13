@@ -1,0 +1,17 @@
+
+1. Taking the input as number of test cases(T)
+
+2.	enter the character 
+
+3. if character match with any one of the letter it will print the result 
+	 charcter can be in any form upper case or lower case
+	 
+	 a. Class ID	Ship Class
+     b .B or b	BattleShip
+     c. C or c	Cruiser
+     d.   D or d	Destroyer 
+     e. F or f	Frigate
+
+4. if any of the character is matched with this it will print the ship class 
+
+5.end 	 

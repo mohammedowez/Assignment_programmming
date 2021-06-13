@@ -1,0 +1,12 @@
+
+1. Taking the input as number of test cases(T)
+
+2.	take 3 varible as input
+
+3.  check if n is odd or even 
+
+4. if its odd then multiply a by 2 and find the max and min of the both 	
+
+5. just take the max and min and print the result	
+ 
+6.end 		

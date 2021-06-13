@@ -19,7 +19,7 @@ int main()
 		for(int i=0;i<n;i++)
 			cin>>a[i];
 	
-	// srting an array in the ascending order
+	// sorting an array in the ascending order
 		
 		sort(a,a+n);
 		

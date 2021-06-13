@@ -23,7 +23,7 @@ int main()
 		
 		sort(a,a+n);
 		
-	//	compare it with first element and with n-1
+	//	compare it with first element and multiply with n-1
 		cout<<(a[0]*(n-1))<<"\n";
 
     }

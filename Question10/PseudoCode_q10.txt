@@ -1,0 +1,17 @@
+
+1. Taking the input as number of test cases(T)
+
+2.	enter the number
+
+3. if the number is less then 1500 
+	then multiply the number by g=n+ 0.1*n+ 0.9*n;
+
+4 if the number is greater then 1500
+	then perform this operation 
+	 g=n+500+0.98*n;
+	
+
+4. then we have to print two decimal digits after every number so we will use inbuilt variable set precision to print it 
+	the gross salary
+
+5.end 		

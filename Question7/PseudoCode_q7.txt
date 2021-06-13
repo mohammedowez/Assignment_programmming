@@ -1,0 +1,20 @@
+
+1. Taking the input as number of test cases(T)
+
+2.  input the number(n)
+
+3. input the array elements
+
+4. sorting the array elements in ascending order 
+
+5. comparing the last element with the previous last element to check if its same or not
+
+6.we are mutiplying the array element with the area to get the maximum size of rectangle
+
+7. just we have check for 4 elements so we will use count vaiable to increment till 2 if its 2 then we will 
+		break it
+
+
+8. it count is 2 then we are going to return the area of the function else print "-1"
+
+9.end 		

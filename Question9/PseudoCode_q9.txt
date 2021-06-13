@@ -1,0 +1,10 @@
+
+1. Taking the input as number of test cases(T)
+
+2.	enter the number
+
+3. sorting an array in the ascending order
+
+4. compare it with first element and multiply with n-1
+
+5.end 		
